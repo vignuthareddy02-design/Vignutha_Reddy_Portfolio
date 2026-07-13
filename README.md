@@ -158,10 +158,10 @@ To become a Software Engineer who builds scalable backend systems and AI-powered
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/vignutha-reddy-k
 - 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 📧 Email: YOUR_EMAIL
-- 💻 GitHub: https://github.com/YOUR_USERNAME
+- 📧 Email: Vignuthareddy02@gmail.com
+- 💻 GitHub: https://github.com/Vignuthareddy02-design
 
 ---
 
